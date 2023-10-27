@@ -1,0 +1,53 @@
+<div class="grid text-center">
+				<div class="g-col-6">
+					<div class="card" style="width: 18rem;">
+						<img src="image/sd.jpg" class="card-img-top" alt="...">
+						<div class="card-body">
+							<h5 class="card-title">SD IT Nur Hidayah</h5>
+							<p class="card-text font-16">| Lubuk Alung | 2010-2016 |</p>
+							<p class="card-text">Saya menempuh pendidikan sekolah dasar di SD IT Nurul Ilmi Pariaman dari kelas 1 hingga
+							kelas 4. Tetapi saya saat kelas 4 hingga tamat saya pindah menempuh pendidikan di SD IT
+							Nur Hidayah Lubuk Alung</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="g-col-6">
+					<div class="card" style="width: 18rem;">
+					  <img src="image/smp.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title">SMP IT Ar-Risalah</h5>
+						<p class="card-text font-16">| Padang | 2016 - 2019 |</p>
+						<p class="card-text">Saya memilih untuk menempuh pendidikan jenjang SMP saya pada sebuah sekolah
+						boarding school Islam di Lubuk Minturun Padang. Saya berharap dengan bersekolah di
+						pesantren saya akan mendapatkan ilmu keagamaan yang dapat diterapkan.</p>
+					  </div>
+					</div>
+				</div>
+				
+				<div class="g-col-6">
+					<div class="card" style="width: 18rem;">
+					  <img src="image/sma.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title">SMA Negeri 10 Padang</h5>
+						<p class="card-text font-16">| Padang | 2019 - 2022 |</p>
+						<p class="card-text">Saya menempuh pendidikan jenjang SMA saya di salah satu SMA favorit di Sumatra Barat
+						pada masanya. Walaupun mengharuskan saya untuk berpisah dengan orangtua, saya tetap
+						memilih untuk bersekolah di sekolah tersebut karena SMA Negeri 10 Padang adalah SMA
+						yang paling saya minati.</p>
+					  </div>
+					</div>
+				</div>
+				
+				<div class="g-col-6">
+					<div class="card" style="width: 18rem;">
+					  <img src="image/poli.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title">Politeknik Negeri Padang</h5>
+						<p class="card-text font-16">| Padang | 2022 - sekarang |</p>
+						<p class="card-text">Hingga sekarang saya masih menempuh pendidikan diploma 4 di Politeknik Negeri Padang
+						jurusan Teknologi Informasi prodi Teknologi Rekayasa Perangkat Lunak tahun kedua</p>
+					  </div>
+					</div>
+				</div>
+			</div>
